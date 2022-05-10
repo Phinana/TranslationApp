@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085996330994",
+    "project_id": "translatebattle",
+    "storage_bucket": "translatebattle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085996330994:android:b05fe61cfc5bfb929f856b",
+        "android_client_info": {
+          "package_name": "com.cengizhancy.akwmdqk.myfirsproje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085996330994-9j273jn61iebo73hqnssv59on44pq3td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ6pU9ToP2kT8DjrICHUZ-jHMuQE0XBFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085996330994-9j273jn61iebo73hqnssv59on44pq3td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
